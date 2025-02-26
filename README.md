@@ -20,9 +20,6 @@ El desarrollo abarcó todas las fases del ciclo de vida de una base de datos, de
 ### 🔍 1️⃣ **Recolección de Requisitos & Historias de Usuario**  
 Para comprender mejor las necesidades de los usuarios y el propósito de la base de datos, se definieron **historias de usuario** que representan posibles interacciones con el sistema.  
 
-Ejemplo de historia de usuario:  
-> **Como analista de datos deportivos, quiero consultar estadísticas de los pilotos en las últimas temporadas para identificar tendencias de rendimiento.**  
-
 ### 🏗 2️⃣ **Diseño del Modelo Conceptual**  
 Se elaboró un **modelo conceptual** que define las entidades principales de la base de datos y sus relaciones. Este modelo permite visualizar cómo se estructurará la información antes de la implementación.  
 
