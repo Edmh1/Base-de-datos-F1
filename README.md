@@ -9,9 +9,9 @@ El desarrollo abarcó todas las fases del ciclo de vida de una base de datos, de
 ---
 
 ## 🎯 **Objetivos del Proyecto**  
-✔️ Diseñar una estructura de datos eficiente que permita almacenar información relevante sobre la Fórmula 1.  
-✔️ Facilitar la consulta y el análisis de datos históricos, estadísticas de carreras y rendimiento de pilotos/equipos.  
-✔️ Implementar buenas prácticas de modelado de bases de datos para garantizar integridad y escalabilidad.  
+- Diseñar una estructura de datos eficiente que permita almacenar información relevante sobre la Fórmula 1.  
+- Facilitar la consulta y el análisis de datos históricos, estadísticas de carreras y rendimiento de pilotos/equipos.  
+- Implementar buenas prácticas de modelado de bases de datos para garantizar integridad y escalabilidad.  
 
 ---
 
@@ -28,15 +28,15 @@ En esta fase, se tradujo el modelo conceptual en un **modelo lógico relacional*
 
 ### 🏛 4️⃣ **Implementación del Modelo Físico (DDL - Data Definition Language)**  
 Se escribió el **código SQL DDL** para la creación de la estructura de la base de datos, incluyendo:  
-✔️ Creación de tablas.  
-✔️ Definición de claves primarias y foráneas.  
-✔️ Índices para mejorar el rendimiento de consultas.  
+- Creación de tablas.  
+- Definición de claves primarias y foráneas.  
+- Índices para mejorar el rendimiento de consultas.  
 
 ### 📝 5️⃣ **Manipulación de Datos (DML - Data Manipulation Language)**  
 Para poblar la base de datos y facilitar la consulta de información, se desarrollaron scripts SQL utilizando **DML**. Esto incluye:  
-✔️ Inserción de datos históricos.  
-✔️ Consultas optimizadas para obtener información clave.  
-✔️ Procedimientos almacenados para análisis avanzado.    
+- Inserción de datos históricos.  
+- Consultas optimizadas para obtener información clave.  
+- Procedimientos almacenados para análisis avanzado.    
 
 ---
 
