@@ -17,22 +17,22 @@ El desarrollo abarcó todas las fases del ciclo de vida de una base de datos, de
 
 ## 🛠 **Fases del Desarrollo**  
 
-### 🔍 1️⃣ **Recolección de Requisitos & Historias de Usuario**  
+### 1️⃣ **Recolección de Requisitos & Historias de Usuario**  
 Para comprender mejor las necesidades de los usuarios y el propósito de la base de datos, se definieron **historias de usuario** que representan posibles interacciones con el sistema.  
 
-### 🏗 2️⃣ **Diseño del Modelo Conceptual**  
+### 2️⃣ **Diseño del Modelo Conceptual**  
 Se elaboró un **modelo conceptual** que define las entidades principales de la base de datos y sus relaciones. Este modelo permite visualizar cómo se estructurará la información antes de la implementación.  
 
-### 🔢 3️⃣ **Diseño del Modelo Lógico**  
+### 3️⃣ **Diseño del Modelo Lógico**  
 En esta fase, se tradujo el modelo conceptual en un **modelo lógico relacional**, definiendo las claves primarias, claves foráneas y atributos de cada tabla.    
 
-### 🏛 4️⃣ **Implementación del Modelo Físico (DDL - Data Definition Language)**  
+### 4️⃣ **Implementación del Modelo Físico (DDL - Data Definition Language)**  
 Se escribió el **código SQL DDL** para la creación de la estructura de la base de datos, incluyendo:  
 - Creación de tablas.  
 - Definición de claves primarias y foráneas.  
 - Índices para mejorar el rendimiento de consultas.  
 
-### 📝 5️⃣ **Manipulación de Datos (DML - Data Manipulation Language)**  
+### 5️⃣ **Manipulación de Datos (DML - Data Manipulation Language)**  
 Para poblar la base de datos y facilitar la consulta de información, se desarrollaron scripts SQL utilizando **DML**. Esto incluye:  
 - Inserción de datos históricos.  
 - Consultas optimizadas para obtener información clave.  
@@ -41,9 +41,9 @@ Para poblar la base de datos y facilitar la consulta de información, se desarro
 ---
 
 ## 🚀 **Tecnologías Utilizadas**  
-🛢 **Motor de Base de Datos:** PostgreSQL 
-📜 **Lenguaje de Consulta:** SQL (DDL, DML).  
-📊 **Herramientas de Modelado:** ERDplus / MySQL Workbench / DBDesigner.  
+ **Motor de Base de Datos:** PostgreSQL 
+ **Lenguaje de Consulta:** SQL (DDL, DML).  
+ **Herramientas de Modelado:** ERDplus / MySQL Workbench / DBDesigner.  
 
 ---
 
